@@ -1,2 +1,2 @@
-# spring-
-spring框架讲解，包括spring，springmvc等
+# spring
+spring框架原理讲解，包括spring，springmvc等
